@@ -3,9 +3,8 @@
   "version": "0.0.0",
   "description": "A simple chat client using socket.io",
   "main": "index.js",
-  "author": "Grant Timmerman",
-  "private": true,
-  "license": "BSD",
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "express": "~4.17.1",
     "socket.io": "^4.0.0"
